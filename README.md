@@ -10,4 +10,4 @@ This is a simple generation example of CNC data. We use numpy to create the rand
 
 #### visualization
 
-![image](http://github.com/dongdonghy/data-gv/raw/master/image/data_result.png)
+![image](https://github.com/dongdonghy/data-gv/raw/master/image/data_result.png)
